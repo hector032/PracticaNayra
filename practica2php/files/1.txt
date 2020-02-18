@@ -1,0 +1,8 @@
+Id: 1
+Tipo: adosado
+Direccion: calle maria
+Dormitorios: 3
+Precio: 200
+Tamanio: 30
+Extras:  Garaje
+Observaciones: NOSE
